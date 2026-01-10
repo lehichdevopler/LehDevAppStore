@@ -1,3 +1,1 @@
-browser.lehapp | 1.0 | LehWeb Browser | Самый быстрый браузер в мире LehDev. | https://cdn-icons-png.flaticon.com/512/3003/3003511.png
-calculator.lehapp | 2.5 | Super Calc | Умный калькулятор для твоих задач. | https://cdn-icons-png.flaticon.com/512/2344/2344132.png
-test.lehapp | 0.1 | Test App | Просто тестовое приложение. | https://cdn-icons-png.flaticon.com/512/1000/1000946.png
+https://github.com/lehichdevopler/LehDevAppStore/releases/download/v1.0/browser.lehapp | 1.0 | LehWeb Browser | Браузер для LehDev | https://cdn-icons-png.flaticon.com/512/3003/3003511.png
