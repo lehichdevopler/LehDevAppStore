@@ -1,0 +1,11 @@
+----
+Name: «Racing Pro»
+Version: «1.0.3»
+Description: «Простенькие гонки с двумя режимами и даже с прокачкой своего авто»
+Url: «https://github.com/lehichdevopler/LehDevAppStore/releases/download/v1.0/RacingPro.lehdevoplerapp»
+----
+Name: «Galaxy Defender»
+Version: «0.4.2»
+Description: «Легендарная игра перенесённая на пк командой LehDev»
+Url: «https://github.com/lehichdevopler/LehDevAppStore/releases/download/v1.0/galaxydefender.lehdevoplerapp»
+----
